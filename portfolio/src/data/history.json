@@ -1,0 +1,28 @@
+[
+    {
+        "role":"Software Developer Intern",
+        "organisation":"Ingenieris Cameroon",
+        "startDate":"April 2023",
+        "endDate":"June 2024",
+        "experiences":["Worked with Flutter and Dart",
+        "UML","REST API",
+        "SQlite", 
+        "OpenStreet Map",
+        "Created UI for mobile applications",
+        "Designed Database"
+    ]
+        
+    },
+    {
+        "role":"Graphic Designer",
+        "organisation":"Individual customer",
+        "startDate":"November 2023",
+        "endDate":"November 2023",
+        "experiences":[
+            "Clip studio paint",
+            "Gimp",
+            "Photoshop"
+    ]
+        
+    }
+]
