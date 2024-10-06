@@ -1,0 +1,14 @@
+[
+    {   "title":"Github",
+        "imageSrc":"contact/github.png",
+        "link":"https://github.com/Ainzo20"
+    },
+    {   "title":"LinkedIn",
+        "imageSrc":"contact/linkedin.png",
+        "link":"https://www.linkedin.com/karl-vaitchafa"
+    },
+    {   "title":"Email",
+        "imageSrc":"contact/email.png",
+        "link":"karlvait21@gmail.com"
+    }
+]

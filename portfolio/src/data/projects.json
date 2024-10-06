@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Promo Alert",
+        "imageSrc":"projects/project.png",
+        "description":"A mobile App which makes it easy to get information about latest discounts at your local shops",
+        "skills":["UML","REST API","Database Design"],
+        "demo":"",
+        "source":""
+    },
+
+    {
+        "title":"Comgest",
+        "imageSrc":"projects/comgest.png",
+        "description":"A mobile App which enables urban municipalities to get geographical data about the businesses running under their territory",
+        "skills":["Flutter","Dart","UML","REST API"],
+        "demo":"",
+        "source":""
+    },
+    {
+        "title":"My Portfolio",
+        "imageSrc":"projects/portfolio.png",
+        "description":"My portfolio webpage which aims at showcasing what i do and how i do it to potential clients",
+        "skills":["Reactjs","JSON","JavaScript","Jsx","CSS"],
+        "demo":"",
+        "source":""
+    }
+]
